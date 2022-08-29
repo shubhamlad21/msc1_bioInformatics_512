@@ -14,7 +14,7 @@ import java.util.Scanner;
  *
  * @author Shubham Lad
  */
-public class JavaApplication1 {
+public class corona_java {
 
     /**
      * @param args the command line arguments
