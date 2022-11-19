@@ -13,7 +13,7 @@ import java.util.Scanner;
  *
  * @author Shubham Lad
  */
-public class fasta_bio_info {
+public class prac_7_blast_search {
     /**
      * @param args the command line arguments
      * @throws java.io.FileNotFoundException
