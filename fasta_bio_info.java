@@ -21,7 +21,7 @@ public class fasta_bio_info {
     public static void main(String[] args) throws FileNotFoundException, IOException {
         StringBuilder sb;
         try (
-        Scanner in = new Scanner(new FileReader("D:\\NetBeansProjects\\JavaApplication1\\src\\javaapplication1\\fasta_bio_info.txt")))
+        Scanner in = new Scanner(new FileReader("D:\\NetBeansProjects\\JavaApplication1\\src\\javaapplication1\\blast.txt")))
         {
             sb = new StringBuilder();
             while(in.hasNext()) {
